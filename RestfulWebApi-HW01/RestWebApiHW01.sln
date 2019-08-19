@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestWebApiHW01", "RestWebApiHW01\RestWebApiHW01.csproj", "{FA21E542-B907-42FF-9D66-B738AC4BEB63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA21E542-B907-42FF-9D66-B738AC4BEB63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA21E542-B907-42FF-9D66-B738AC4BEB63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA21E542-B907-42FF-9D66-B738AC4BEB63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA21E542-B907-42FF-9D66-B738AC4BEB63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AAC99D8-47A4-4B64-94A8-5F0F2558575C}
+	EndGlobalSection
+EndGlobal
